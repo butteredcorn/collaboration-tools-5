@@ -1,3 +1,8 @@
+"""
+This is a python javadoc. 
+This file describes dogs, students, employees, and people.
+"""
+
 class Dog ():
     #note: if you do not specify an initializer
     # python will use a default one
