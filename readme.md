@@ -2,7 +2,7 @@
 
 >Markdown is good for documentation purposes. It allows plain text to be readable without tags, but still gives you functionalities like the ability to bold, italicize, change font size, declare headers, link images and urls. It also works with HTML and CSS.
 >
->It even allows for programming language syntaxing which is something that a .txt, .html, .docx does not support.
+>It also allows for programming language syntaxing which is something that a .txt, .html, .docx does not support. It even links to your GitHub repo effortlessly.
 
 
 #### Q2: Is the keyword "fixes" the only way to auto-close an issue from a PR (pull request). Is there other keywords that can accomplish the same thing?
